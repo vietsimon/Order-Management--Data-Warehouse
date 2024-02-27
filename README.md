@@ -8,7 +8,7 @@ This project solves problem OLAP on E-Commerce order management dataset (small d
 
 The aim of this project, is to build data pipeline,data lake, data warehouse,to perform ETL as well as practicing big data tools. To answer questions the business 
 
-**Video Demo**: [Click Here](https://1drv.ms/v/s!AivXg3swF32DjctfR0oBtM42S52ZSg?e=ytUJCQ)
+**Video Demo**: [Click Here](https://drive.google.com/file/d/1kueWDSmoipsqWWZ8qHNifRgRwWnQf2j_/view?usp=sharing)
 
 
 
