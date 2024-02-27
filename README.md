@@ -16,8 +16,8 @@ The aim of this project, is to build data pipeline,data lake, data warehouse,to 
 
 
 ## Architecture
+![Architecture1](images/Architecture.png)
 
-![Architecture](images/Architecture.png)
 
 ## Datalake in HDFS
 
