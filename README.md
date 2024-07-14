@@ -11,9 +11,6 @@ The aim of this project, is to build data pipeline,data lake, data warehouse,to 
 - Revenue of all orders everyday and in 2022
 - Which products do customers buy the most in a day?
 
-**Video Demo**: [Click Here](https://drive.google.com/file/d/1kueWDSmoipsqWWZ8qHNifRgRwWnQf2j_/view?usp=sharing)
-
-
 
 ## Architecture
 ![Architecture1](images/architecture.png)
